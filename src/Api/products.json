@@ -1,0 +1,299 @@
+[
+  {
+    "id": 1,
+    "name": "Linen trim t-shirt",
+    "Gender": "Female",
+    "price": 200,
+    "image": "/images/1.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
+  },
+
+  {
+    "id": 2,
+    "name": "Neck empire sleeve",
+    "Gender": "Female",
+    "price": 190,
+    "image": "/images/2.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
+  },
+
+  {
+    "id": 3,
+    "name": "Mermaid t-shirts",
+    "Gender": "Female",
+    "price": 120,
+    "image": "/images/3.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
+  },
+
+  {
+    "id": 4,
+    "name": "The cosmic cornucopia",
+    "Gender": "Female",
+    "price": 160,
+    "image": "/images/7.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
+  },
+  {
+    "id": 5,
+    "name": "V neck bodycon",
+    "Gender": "Female",
+    "price": 110,
+    "image": "/images/5.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
+  },
+  {
+    "id": 6,
+    "name": "Tenku remastered",
+    "Gender": "Female",
+    "price": 130,
+    "image": "/images/6.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
+  },
+  {
+    "id": 7,
+    "name": "Women's lined hoodie",
+    "Gender": "Female",
+    "price": 90,
+    "image": "/images/4.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
+  },
+  {
+    "id": 8,
+    "name": "Women's lined",
+    "Gender": "Female",
+    "price": 70,
+    "image": "/images/8.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
+  },
+  {
+    "id": 9,
+    "name": "chino polo",
+    "Gender": "Female",
+    "price": 200,
+    "image": "/images/9.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
+  },
+  {
+    "id": 10,
+    "name": "Tenku remastered",
+    "Gender": "Female",
+    "price": 80,
+    "image": "/images/10.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
+  },
+  {
+    "id": 11,
+    "name": "V neck bodycon",
+    "Gender": "Female",
+    "price": 110,
+    "image": "/images/11.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
+  },
+  {
+    "id": 12,
+    "name": "Tenku remastered",
+    "Gender": "Female",
+    "price": 130,
+    "image": "/images/12.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
+  },
+  {
+    "id": 13,
+    "name": "Linen trim t-shirt",
+    "Gender": "Men",
+    "price": 200,
+    "image": "/images/13.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
+  },
+
+  {
+    "id": 14,
+    "name": "Neck empire sleeve",
+    "Gender": "Men",
+    "price": 190,
+    "image": "/images/14.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
+  },
+
+  {
+    "id": 15,
+    "name": "Mermaid t-shirts",
+    "Gender": "Men",
+    "price": 120,
+    "image": "/images/15.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
+  },
+
+  {
+    "id": 16,
+    "name": "The cosmic cornucopia",
+    "Gender": "Men",
+    "price": 160,
+    "image": "/images/16.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
+  },
+  {
+    "id": 17,
+    "name": "V neck bodycon",
+    "Gender": "Men",
+    "price": 110,
+    "image": "/images/17.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
+  },
+  {
+    "id": 18,
+    "name": "Tenku remastered",
+    "Gender": "Men",
+    "price": 130,
+    "image": "/images/18.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
+  },
+  {
+    "id": 19,
+    "name": "Women's lined hoodie",
+    "Gender": "Men",
+    "price": 90,
+    "image": "/images/19.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
+  },
+  {
+    "id": 20,
+    "name": "Men's lined",
+    "Gender": "Men",
+    "price": 70,
+    "image": "/images/20.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
+  },
+  {
+    "id": 21,
+    "name": "chino polo",
+    "Gender": "Men",
+    "price": 200,
+    "image": "/images/21.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
+  },
+  {
+    "id": 22,
+    "name": "Tenku remastered",
+    "Gender": "Men",
+    "price": 80,
+    "image": "/images/22.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
+  },
+  {
+    "id": 23,
+    "name": "V neck bodycon",
+    "Gender": "Men",
+    "price": 110,
+    "image": "/images/23.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
+  },
+  {
+    "id": 24,
+    "name": "Tenku remastered",
+    "Gender": "Men",
+    "price": 130,
+    "image": "/images/24.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
+  },
+  {
+    "id": 25,
+    "name": "Linen trim t-shirt",
+    "Gender": "Kid",
+    "price": 200,
+    "image": "/images/25.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
+  },
+
+  {
+    "id": 26,
+    "name": "Neck empire sleeve",
+    "Gender": "Kid",
+    "price": 190,
+    "image": "/images/26.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
+  },
+
+  {
+    "id": 27,
+    "name": "Mermaid t-shirts",
+    "Gender": "Kid",
+    "price": 120,
+    "image": "/images/27.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
+  },
+
+  {
+    "id": 28,
+    "name": "The cosmic cornucopia",
+    "Gender": "Kid",
+    "price": 280,
+    "image": "/images/28.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
+  },
+  {
+    "id": 29,
+    "name": "V neck bodycon",
+    "Gender": "Kid",
+    "price": 110,
+    "image": "/images/29.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
+  },
+  {
+    "id": 30,
+    "name": "Tenku remastered",
+    "Gender": "Kid",
+    "price": 130,
+    "image": "/images/30.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
+  },
+  {
+    "id": 31,
+    "name": "Women's lined hoodie",
+    "Gender": "Kid",
+    "price": 90,
+    "image": "/images/31.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
+  },
+  {
+    "id": 32,
+    "name": "Women's lined",
+    "Gender": "Kid",
+    "price": 70,
+    "image": "/images/32.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
+  },
+  {
+    "id": 33,
+    "name": "chino polo",
+    "Gender": "Kid",
+    "price": 200,
+    "image": "/images/33.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
+  },
+  {
+    "id": 34,
+    "name": "Tenku remastered",
+    "Gender": "Kid",
+    "price": 80,
+    "image": "/images/34.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
+  },
+  {
+    "id": 35,
+    "name": "V neck bodycon",
+    "Gender": "Kid",
+    "price": 110,
+    "image": "/images/35.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
+  },
+  {
+    "id": 36,
+    "name": "Tenku remastered",
+    "Gender": "Kid",
+    "price": 130,
+    "image": "/images/36.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
+  }
+]
